@@ -1,4 +1,4 @@
-# HostingTest
+# HostingTest and Pushish to GitHub
 Trying to test the hosting using Pages
 
 ## How to push ur code from local to github??
